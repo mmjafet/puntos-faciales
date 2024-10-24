@@ -1,5 +1,6 @@
 Flask==2.3.3
 opencv-python==4.7.0.72
 mediapipe==0.10.15
-pandas==1.5.3
-numpy==1.24.2  # Agregar numpy como dependencia
+pandas==1.4.4  # Versión anterior que puede ser más estable
+numpy==1.23.5  # Versión que se sabe que funciona bien con pandas 1.4.4
+setuptools==67.7.2
