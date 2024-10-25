@@ -2,3 +2,4 @@ flask
 mediapipe
 pandas
 opencv-python-headless
+--no-cache-dir
