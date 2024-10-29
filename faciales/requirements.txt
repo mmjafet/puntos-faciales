@@ -1,5 +1,0 @@
-flask
-mediapipe
-pandas
-opencv-python-headless
-gunicorn
